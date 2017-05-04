@@ -1,1 +1,1 @@
-# MyNewRepository is for practice
+# MyNewRepository is for practice of github
